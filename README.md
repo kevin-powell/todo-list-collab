@@ -5,4 +5,4 @@ Kevin built out the HTML and styled it up, and then Kyle added the functionality
 
 ## The videos
 - Kevin's video (HTML & CSS) -
-- Web Dev Simplified's video (JS) - 
+- Web Dev Simplified's video (JS) - https://youtu.be/W7FaYfuwu70  
